@@ -15,6 +15,6 @@
 ### 🚀 My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,cs,dotnet,html,css,flask,mysql,excel)](https://skillicons.dev)
 
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsteem&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsteem&layout=compact&theme=radical)
