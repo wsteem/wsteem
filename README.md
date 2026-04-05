@@ -13,4 +13,4 @@
 </div>
 
 ### 🚀 My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,java,dotnet,html,css,mysql,excel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,dotnet,html,css,mysql,mathexcel)](https://skillicons.dev)
