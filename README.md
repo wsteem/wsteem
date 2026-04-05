@@ -11,3 +11,10 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
+
+### 🚀 My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,dotnet,html,css,flask,mysql,excel)](https://skillicons.dev)
+
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
