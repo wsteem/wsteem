@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Wesley Steem 👋</h1>
-  <p>First-year CS Student | Problem Solver | Game Logic Designer | Full-Stack Learner | Tech Explorer</p>
+  <p>CS Student | Problem Solver | Game Logic Designer | Full-Stack Learner | Tech Explorer</p>
 </div>
 
 ---
