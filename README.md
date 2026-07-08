@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Wesley Steem 👋</h1>
-  <p>CS Student | Problem Solver | Game Logic Designer | Full-Stack Learner | Tech Explorer</p>
+  <p>AI Integration Developer | CS Student | Problem Solver | Full-Stack Developer | AI Skills Engineer</p>
 </div>
 
 ---
@@ -10,6 +10,11 @@
 ### 🛠 Tools & Software
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,dotnet,html,css,mysql)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" valign="middle" />
+
+<img src="https://img.shields.io/badge/Claude-6366F1?style=for-the-badge&logoColor=white" valign="middle" />
+
+<img src="https://img.shields.io/badge/GitHub%20Copilot-24292E?style=for-the-badge&logo=github&logoColor=white" valign="middle" />
 
 </div>
